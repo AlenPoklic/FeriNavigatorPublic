@@ -1,0 +1,4307 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-1688452' action='modify' visible='true' lat='46.55911908751' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688453' action='modify' visible='true' lat='46.55924875399' lon='15.6382655454'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688454' action='modify' visible='true' lat='46.55930496515' lon='15.63881374465'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688455' action='modify' visible='true' lat='46.55933742893' lon='15.63841731347'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688456' action='modify' visible='true' lat='46.55926784496' lon='15.63829421137'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688457' action='modify' visible='true' lat='46.55930590032' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688458' action='modify' visible='true' lat='46.55929102103' lon='15.63856755827'>
+    <tag k='caption' v='25' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688459' action='modify' visible='true' lat='46.55914083243' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688460' action='modify' visible='true' lat='46.55928219767' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688461' action='modify' visible='true' lat='46.55915032351' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688462' action='modify' visible='true' lat='46.55912857859' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688463' action='modify' visible='true' lat='46.55924875395' lon='15.63827610591'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688464' action='modify' visible='true' lat='46.55928852501' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688465' action='modify' visible='true' lat='46.5591471598' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688466' action='modify' visible='true' lat='46.55912541489' lon='15.638637832'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688467' action='modify' visible='true' lat='46.5591873752' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688468' action='modify' visible='true' lat='46.5591892657' lon='15.63829366028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688469' action='modify' visible='true' lat='46.55931222765' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688470' action='modify' visible='true' lat='46.55929640932' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688471' action='modify' visible='true' lat='46.55936898875' lon='15.63858578106'>
+    <tag k='caption' v='WC moški M Jug' />
+    <tag k='icon' v='WC_M' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688472' action='modify' visible='true' lat='46.55929324565' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688473' action='modify' visible='true' lat='46.5593258128' lon='15.63819646561'>
+    <tag k='idx' v='258' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688474' action='modify' visible='true' lat='46.55928852501' lon='15.63821069394'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688475' action='modify' visible='true' lat='46.55914439705' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688476' action='modify' visible='true' lat='46.5593141971' lon='15.63830659397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688477' action='modify' visible='true' lat='46.559298016' lon='15.63821069397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688478' action='modify' visible='true' lat='46.55915388813' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688479' action='modify' visible='true' lat='46.5591602155' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688480' action='modify' visible='true' lat='46.55915348721' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688481' action='modify' visible='true' lat='46.55915705183' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688482' action='modify' visible='true' lat='46.55924875399' lon='15.63827783083'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688483' action='modify' visible='true' lat='46.55930496515' lon='15.63868641664'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688484' action='modify' visible='true' lat='46.55912491927' lon='15.63875328848'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688485' action='modify' visible='true' lat='46.55929957298' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688486' action='modify' visible='true' lat='46.55912012472' lon='15.63802844246'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688487' action='modify' visible='true' lat='46.5592968653' lon='15.63819646561'>
+    <tag k='idx' v='270' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688488' action='modify' visible='true' lat='46.5590848556' lon='15.63803002752'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688489' action='modify' visible='true' lat='46.55913766876' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688490' action='modify' visible='true' lat='46.55939460262' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688491' action='modify' visible='true' lat='46.55926784492' lon='15.63845423173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688492' action='modify' visible='true' lat='46.55929168869' lon='15.63823272233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688493' action='modify' visible='true' lat='46.55913134134' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688494' action='modify' visible='true' lat='46.55929324567' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688495' action='modify' visible='true' lat='46.55914083243' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688496' action='modify' visible='true' lat='46.55911908751' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688497' action='modify' visible='true' lat='46.55929008199' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688498' action='modify' visible='true' lat='46.55908724035' lon='15.63811676053'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688499' action='modify' visible='true' lat='46.55914123338' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688500' action='modify' visible='true' lat='46.55924875399' lon='15.63824506973'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688501' action='modify' visible='true' lat='46.55912317356' lon='15.63811676053'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688502' action='modify' visible='true' lat='46.55930496515' lon='15.63881374465'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688503' action='modify' visible='true' lat='46.5593141971' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688504' action='modify' visible='true' lat='46.55913490597' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688505' action='modify' visible='true' lat='46.55924875399' lon='15.63826964053'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688506' action='modify' visible='true' lat='46.55910272957' lon='15.63868010866'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688507' action='modify' visible='true' lat='46.5593825494' lon='15.63856491572'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688508' action='modify' visible='true' lat='46.55933742893' lon='15.63826971415'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688509' action='modify' visible='true' lat='46.559298016' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688510' action='modify' visible='true' lat='46.55929102103' lon='15.63850959925'>
+    <tag k='caption' v='24' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688511' action='modify' visible='true' lat='46.55915981458' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688512' action='modify' visible='true' lat='46.55930906398' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688513' action='modify' visible='true' lat='46.55912817768' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688514' action='modify' visible='true' lat='46.55914439705' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688515' action='modify' visible='true' lat='46.55924875399' lon='15.63825735513'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688516' action='modify' visible='true' lat='46.55928219769' lon='15.63823272233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688517' action='modify' visible='true' lat='46.55912185026' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688518' action='modify' visible='true' lat='46.55924875395' lon='15.63824988268'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688519' action='modify' visible='true' lat='46.55926339605' lon='15.63869721049'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688520' action='modify' visible='true' lat='46.55930434334' lon='15.63823272233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688521' action='modify' visible='true' lat='46.55930273666' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688522' action='modify' visible='true' lat='46.5593611103' lon='15.63864060623'>
+    <tag k='caption' v='WC ženski M Jug' />
+    <tag k='icon' v='WC_W' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688523' action='modify' visible='true' lat='46.55915032351' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688524' action='modify' visible='true' lat='46.55932577147' lon='15.63850973964'>
+    <tag k='idx' v='255' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688525' action='modify' visible='true' lat='46.55929485234' lon='15.63823272233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688526' action='modify' visible='true' lat='46.55915072446' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688527' action='modify' visible='true' lat='46.55924875395' lon='15.6383023291'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688528' action='modify' visible='true' lat='46.55930434334' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688529' action='modify' visible='true' lat='46.55915388813' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688530' action='modify' visible='true' lat='46.55926784492' lon='15.63827783083'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688531' action='modify' visible='true' lat='46.55926784492' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688532' action='modify' visible='true' lat='46.5593141971' lon='15.63826970766'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688533' action='modify' visible='true' lat='46.5591602155' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688534' action='modify' visible='true' lat='46.55914715984' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688535' action='modify' visible='true' lat='46.55912541489' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688536' action='modify' visible='true' lat='46.55926784494' lon='15.6382655454'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688537' action='modify' visible='true' lat='46.55933742893' lon='15.63838039526'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688538' action='modify' visible='true' lat='46.55912225122' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688539' action='modify' visible='true' lat='46.55924875399' lon='15.63829011623'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688540' action='modify' visible='true' lat='46.55931222765' lon='15.63865572758'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688541' action='modify' visible='true' lat='46.559359857' lon='15.6384357726'>
+    <tag k='caption' v='30' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688542' action='modify' visible='true' lat='46.55912501397' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688543' action='modify' visible='true' lat='46.55915072446' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688544' action='modify' visible='true' lat='46.55926784492' lon='15.63824916486'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688545' action='modify' visible='true' lat='46.55925204902' lon='15.63802251362'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688546' action='modify' visible='true' lat='46.55918790618' lon='15.63824988271'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688547' action='modify' visible='true' lat='46.55926792029' lon='15.63868983761'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688548' action='modify' visible='true' lat='46.55930906398' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688549' action='modify' visible='true' lat='46.55929957298' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688550' action='modify' visible='true' lat='46.55932577147' lon='15.63858578006'>
+    <tag k='idx' v='268' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688551' action='modify' visible='true' lat='46.55913450505' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688552' action='modify' visible='true' lat='46.55913806968' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688553' action='modify' visible='true' lat='46.55926784492' lon='15.63841731347'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688554' action='modify' visible='true' lat='46.559298016' lon='15.63821069397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688555' action='modify' visible='true' lat='46.55913766876' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688556' action='modify' visible='true' lat='46.55912491931' lon='15.6386967606'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688557' action='modify' visible='true' lat='46.5593550039' lon='15.63823272233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688558' action='modify' visible='true' lat='46.55915665088' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688559' action='modify' visible='true' lat='46.55913490597' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688560' action='modify' visible='true' lat='46.55918872055' lon='15.63827610591'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688561' action='modify' visible='true' lat='46.55928536135' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688562' action='modify' visible='true' lat='46.55912817768' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688563' action='modify' visible='true' lat='46.5591317423' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688564' action='modify' visible='true' lat='46.55930590032' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688565' action='modify' visible='true' lat='46.55916597821' lon='15.63825483119'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688566' action='modify' visible='true' lat='46.55938248337' lon='15.63852804536'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688567' action='modify' visible='true' lat='46.55928852501' lon='15.63821069397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688568' action='modify' visible='true' lat='46.55914439705' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688569' action='modify' visible='true' lat='46.55914116931' lon='15.63874619827'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688570' action='modify' visible='true' lat='46.55929485234' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688571' action='modify' visible='true' lat='46.55915665088' lon='15.63821075596'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688572' action='modify' visible='true' lat='46.55914123338' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688573' action='modify' visible='true' lat='46.5591570518' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688574' action='modify' visible='true' lat='46.55918818215' lon='15.63825876825'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688575' action='modify' visible='true' lat='46.55926784496' lon='15.63829011623'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688576' action='modify' visible='true' lat='46.55931222763' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688577' action='modify' visible='true' lat='46.55924875399' lon='15.63827373569'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688578' action='modify' visible='true' lat='46.55935315093' lon='15.63862548489'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688579' action='modify' visible='true' lat='46.55930117968' lon='15.63821069394'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688580' action='modify' visible='true' lat='46.55933742893' lon='15.6383435122'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688581' action='modify' visible='true' lat='46.55929168867' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688582' action='modify' visible='true' lat='46.55912501397' lon='15.63821075602'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688583' action='modify' visible='true' lat='46.55912857859' lon='15.638637832'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688584' action='modify' visible='true' lat='46.55935979091' lon='15.63836195373'>
+    <tag k='caption' v='28' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688585' action='modify' visible='true' lat='46.55911868655' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688586' action='modify' visible='true' lat='46.55912225118' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688587' action='modify' visible='true' lat='46.55924875399' lon='15.63826145026'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688588' action='modify' visible='true' lat='46.55914715984' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688589' action='modify' visible='true' lat='46.55912541489' lon='15.638637832'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688590' action='modify' visible='true' lat='46.55918737522' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688591' action='modify' visible='true' lat='46.55936906967' lon='15.63862548489'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688592' action='modify' visible='true' lat='46.55926784492' lon='15.63823687946'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688593' action='modify' visible='true' lat='46.55930496515' lon='15.63876172173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688594' action='modify' visible='true' lat='46.55933742893' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688595' action='modify' visible='true' lat='46.55929008201' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688596' action='modify' visible='true' lat='46.559299573' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688597' action='modify' visible='true' lat='46.55929102101' lon='15.63825121499'>
+    <tag k='caption' v='17' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688598' action='modify' visible='true' lat='46.55915665088' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688599' action='modify' visible='true' lat='46.5591602155' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688600' action='modify' visible='true' lat='46.55914399613' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688601' action='modify' visible='true' lat='46.55914756076' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688602' action='modify' visible='true' lat='46.55918898974' lon='15.63828477472'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688603' action='modify' visible='true' lat='46.55926784494' lon='15.63830240163'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688604' action='modify' visible='true' lat='46.55938186984' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688605' action='modify' visible='true' lat='46.55926784492' lon='15.63838039526'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688606' action='modify' visible='true' lat='46.55929485234' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688607' action='modify' visible='true' lat='46.55913450505' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688608' action='modify' visible='true' lat='46.55930156113' lon='15.6386176597'>
+    <tag k='idx' v='278' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688609' action='modify' visible='true' lat='46.55913134134' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688610' action='modify' visible='true' lat='46.55914756076' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688611' action='modify' visible='true' lat='46.55924875399' lon='15.63825325999'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688612' action='modify' visible='true' lat='46.55914083243' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688613' action='modify' visible='true' lat='46.5591602155' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688614' action='modify' visible='true' lat='46.55924875395' lon='15.63824097459'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688615' action='modify' visible='true' lat='46.55914116931' lon='15.63872693944'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688616' action='modify' visible='true' lat='46.55926784496' lon='15.63829421137'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688617' action='modify' visible='true' lat='46.55929640932' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688618' action='modify' visible='true' lat='46.55932577147' lon='15.63853739801'>
+    <tag k='idx' v='266' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688619' action='modify' visible='true' lat='46.55924875399' lon='15.63824916486'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688620' action='modify' visible='true' lat='46.5591872715' lon='15.63871067475'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688621' action='modify' visible='true' lat='46.55930117966' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688622' action='modify' visible='true' lat='46.55912185026' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688623' action='modify' visible='true' lat='46.5593059003' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688624' action='modify' visible='true' lat='46.5592789119' lon='15.6386176597'>
+    <tag k='idx' v='277' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688625' action='modify' visible='true' lat='46.55915348717' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688626' action='modify' visible='true' lat='46.55913174226' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688627' action='modify' visible='true' lat='46.55914123334' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688628' action='modify' visible='true' lat='46.55924875395' lon='15.63824121389'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688629' action='modify' visible='true' lat='46.5593819545' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688630' action='modify' visible='true' lat='46.55929640932' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688631' action='modify' visible='true' lat='46.55913806968' lon='15.638637832'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688632' action='modify' visible='true' lat='46.55918769151' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688633' action='modify' visible='true' lat='46.55931419712' lon='15.63852804536'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688634' action='modify' visible='true' lat='46.55928536135' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688635' action='modify' visible='true' lat='46.55924875399' lon='15.6382860211'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688636' action='modify' visible='true' lat='46.55930906398' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688637' action='modify' visible='true' lat='46.55935972483' lon='15.63828817002'>
+    <tag k='caption' v='26' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688638' action='modify' visible='true' lat='46.55912501397' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688639' action='modify' visible='true' lat='46.55936906967' lon='15.63865572758'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688640' action='modify' visible='true' lat='46.55930434334' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688641' action='modify' visible='true' lat='46.55912185026' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688642' action='modify' visible='true' lat='46.55924875395' lon='15.63826736421'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688643' action='modify' visible='true' lat='46.55928852501' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688644' action='modify' visible='true' lat='46.55913134134' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688645' action='modify' visible='true' lat='46.55913490597' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688646' action='modify' visible='true' lat='46.55930273664' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688647' action='modify' visible='true' lat='46.55912857859' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688648' action='modify' visible='true' lat='46.55926784494' lon='15.63826145026'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688649' action='modify' visible='true' lat='46.55921596941' lon='15.63876172173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688650' action='modify' visible='true' lat='46.55933742893' lon='15.63830659397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688651' action='modify' visible='true' lat='46.55926784494' lon='15.63860707118'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688652' action='modify' visible='true' lat='46.55926784494' lon='15.63865572758'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688653' action='modify' visible='true' lat='46.55915032351' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688654' action='modify' visible='true' lat='46.55915388813' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688655' action='modify' visible='true' lat='46.55928536133' lon='15.6381854523'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688656' action='modify' visible='true' lat='46.55914399613' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688657' action='modify' visible='true' lat='46.55912225118' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688658' action='modify' visible='true' lat='46.55915348717' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688659' action='modify' visible='true' lat='46.55913174226' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688660' action='modify' visible='true' lat='46.55926784494' lon='15.63827373567'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688661' action='modify' visible='true' lat='46.55917325902' lon='15.63848199044'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688662' action='modify' visible='true' lat='46.55924875395' lon='15.63829366028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688663' action='modify' visible='true' lat='46.55938208679' lon='15.63830659397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688664' action='modify' visible='true' lat='46.55930590032' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688665' action='modify' visible='true' lat='46.55929102101' lon='15.63832505308'>
+    <tag k='caption' v='19' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688666' action='modify' visible='true' lat='46.55926784492' lon='15.6383435122'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688667' action='modify' visible='true' lat='46.55930117966' lon='15.63821069397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688668' action='modify' visible='true' lat='46.55915705183' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688669' action='modify' visible='true' lat='46.55914116931' lon='15.63876172173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688670' action='modify' visible='true' lat='46.55912817764' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688671' action='modify' visible='true' lat='46.55915388813' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688672' action='modify' visible='true' lat='46.55926784494' lon='15.63827783083'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688673' action='modify' visible='true' lat='46.55912437384' lon='15.63815190677'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688674' action='modify' visible='true' lat='46.5591570518' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688675' action='modify' visible='true' lat='46.55926784492' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688676' action='modify' visible='true' lat='46.55939460263' lon='15.63818545236'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688677' action='modify' visible='true' lat='46.55938235118' lon='15.63845423173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688678' action='modify' visible='true' lat='46.55924875399' lon='15.6382983065'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688679' action='modify' visible='true' lat='46.55929640932' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688680' action='modify' visible='true' lat='46.55934392233' lon='15.63822170727'>
+    <tag k='idx' v='263' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688681' action='modify' visible='true' lat='46.55913766872' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688682' action='modify' visible='true' lat='46.55920815803' lon='15.63871064361'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688683' action='modify' visible='true' lat='46.559298016' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688684' action='modify' visible='true' lat='46.55914083243' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688685' action='modify' visible='true' lat='46.55914439705' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688686' action='modify' visible='true' lat='46.5593257354' lon='15.63832506163'>
+    <tag k='idx' v='275' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688687' action='modify' visible='true' lat='46.55915981458' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688688' action='modify' visible='true' lat='46.55913806968' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688689' action='modify' visible='true' lat='46.55926784494' lon='15.63824916486'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688690' action='modify' visible='true' lat='46.55918763699' lon='15.63824121389'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688691' action='modify' visible='true' lat='46.55933742893' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688692' action='modify' visible='true' lat='46.55929324567' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688693' action='modify' visible='true' lat='46.55929324567' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688694' action='modify' visible='true' lat='46.55926784494' lon='15.63849115313'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688695' action='modify' visible='true' lat='46.55929168867' lon='15.63821069394'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688696' action='modify' visible='true' lat='46.55914756076' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688697' action='modify' visible='true' lat='46.55931222763' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688698' action='modify' visible='true' lat='46.55912185026' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688699' action='modify' visible='true' lat='46.55912541489' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688700' action='modify' visible='true' lat='46.55924875399' lon='15.63825735513'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688701' action='modify' visible='true' lat='46.55915665088' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688702' action='modify' visible='true' lat='46.55911868655' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688703' action='modify' visible='true' lat='46.55918790618' lon='15.63824988268'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688704' action='modify' visible='true' lat='46.55926784494' lon='15.6382860211'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688705' action='modify' visible='true' lat='46.55912491927' lon='15.63872693944'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688706' action='modify' visible='true' lat='46.55930273664' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688707' action='modify' visible='true' lat='46.5593257354' lon='15.63839885337'>
+    <tag k='idx' v='273' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688708' action='modify' visible='true' lat='46.55913134134' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688709' action='modify' visible='true' lat='46.55926651071' lon='15.63871523303'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688710' action='modify' visible='true' lat='46.55926784494' lon='15.63849115313'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688711' action='modify' visible='true' lat='46.55929485232' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688712' action='modify' visible='true' lat='46.55912817764' lon='15.63821075602'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688713' action='modify' visible='true' lat='46.55929008201' lon='15.63865572758'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688714' action='modify' visible='true' lat='46.5591471598' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688715' action='modify' visible='true' lat='46.55915072442' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688716' action='modify' visible='true' lat='46.55918872055' lon='15.63827610591'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688717' action='modify' visible='true' lat='46.55928219767' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688718' action='modify' visible='true' lat='46.55915032351' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688719' action='modify' visible='true' lat='46.55912857859' lon='15.638637832'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688720' action='modify' visible='true' lat='46.55917080233' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688721' action='modify' visible='true' lat='46.55913806968' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688722' action='modify' visible='true' lat='46.55924875399' lon='15.63826964053'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688723' action='modify' visible='true' lat='46.55917325902' lon='15.63848199044'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688724' action='modify' visible='true' lat='46.55933737967' lon='15.63862548489'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688725' action='modify' visible='true' lat='46.55933742893' lon='15.63826971415'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688726' action='modify' visible='true' lat='46.55930273666' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688727' action='modify' visible='true' lat='46.55929102101' lon='15.63839885437'>
+    <tag k='caption' v='21' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688728' action='modify' visible='true' lat='46.55915981458' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688729' action='modify' visible='true' lat='46.55915388813' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688730' action='modify' visible='true' lat='46.55917895997' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688731' action='modify' visible='true' lat='46.55926784496' lon='15.63829011623'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688732' action='modify' visible='true' lat='46.55930906398' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688733' action='modify' visible='true' lat='46.55924875399' lon='15.63828192596'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688734' action='modify' visible='true' lat='46.55938276697' lon='15.63868641664'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688735' action='modify' visible='true' lat='46.55926784492' lon='15.63830659397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688736' action='modify' visible='true' lat='46.559298016' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688737' action='modify' visible='true' lat='46.559382995' lon='15.63881374465'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688738' action='modify' visible='true' lat='46.55938228507' lon='15.63841731347'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688739' action='modify' visible='true' lat='46.55928852501' lon='15.6381854523'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688740' action='modify' visible='true' lat='46.5591471598' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688741' action='modify' visible='true' lat='46.55932577147' lon='15.6386176597'>
+    <tag k='idx' v='260' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688742' action='modify' visible='true' lat='46.55914399613' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688743' action='modify' visible='true' lat='46.55912225122' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688744' action='modify' visible='true' lat='46.55924875395' lon='15.63823687946'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688745' action='modify' visible='true' lat='46.55913766872' lon='15.63821075602'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688746' action='modify' visible='true' lat='46.55914123334' lon='15.638637832'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688747' action='modify' visible='true' lat='46.55929324565' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688748' action='modify' visible='true' lat='46.55936174478' lon='15.6386176597'>
+    <tag k='idx' v='259' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688749' action='modify' visible='true' lat='46.55913490597' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688750' action='modify' visible='true' lat='46.55924875399' lon='15.63824506973'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688751' action='modify' visible='true' lat='46.55923009055' lon='15.63870807891'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688752' action='modify' visible='true' lat='46.55930434332' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688753' action='modify' visible='true' lat='46.55929957298' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688754' action='modify' visible='true' lat='46.559325788' lon='15.63841970275'>
+    <tag k='caption' v='G2 M' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688755' action='modify' visible='true' lat='46.55913450505' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688756' action='modify' visible='true' lat='46.55915072442' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688757' action='modify' visible='true' lat='46.55928852501' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688758' action='modify' visible='true' lat='46.55914439705' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688759' action='modify' visible='true' lat='46.55924875395' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688760' action='modify' visible='true' lat='46.55938262414' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688761' action='modify' visible='true' lat='46.55912817768' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688762' action='modify' visible='true' lat='46.55914439705' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688763' action='modify' visible='true' lat='46.55926784492' lon='15.63825735513'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688764' action='modify' visible='true' lat='46.55929008199' lon='15.63865572758'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688765' action='modify' visible='true' lat='46.55924875395' lon='15.63825876825'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688766' action='modify' visible='true' lat='46.55925745974' lon='15.63870049953'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688767' action='modify' visible='true' lat='46.55930906398' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688768' action='modify' visible='true' lat='46.55929957298' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688769' action='modify' visible='true' lat='46.55932579069' lon='15.63825123236'>
+    <tag k='idx' v='271' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688770' action='modify' visible='true' lat='46.55913766876' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688771' action='modify' visible='true' lat='46.55914123338' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688772' action='modify' visible='true' lat='46.55926784494' lon='15.63845423173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688773' action='modify' visible='true' lat='46.55929168867' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688774' action='modify' visible='true' lat='46.55913450505' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688775' action='modify' visible='true' lat='46.55914116927' lon='15.63875328848'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688776' action='modify' visible='true' lat='46.5591317423' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688777' action='modify' visible='true' lat='46.55924875395' lon='15.63828477472'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688778' action='modify' visible='true' lat='46.55933742893' lon='15.63826970766'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688779' action='modify' visible='true' lat='46.559298016' lon='15.6381854523'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688780' action='modify' visible='true' lat='46.55912541489' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688781' action='modify' visible='true' lat='46.5591873752' lon='15.63820142745'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688782' action='modify' visible='true' lat='46.55926784494' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688783' action='modify' visible='true' lat='46.55915348721' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688784' action='modify' visible='true' lat='46.55916918226' lon='15.63835479679'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688785' action='modify' visible='true' lat='46.55935542809' lon='15.63856491572'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688786' action='modify' visible='true' lat='46.55928536135' lon='15.63823272233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688787' action='modify' visible='true' lat='46.55912501397' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688788' action='modify' visible='true' lat='46.55929102102' lon='15.63847269243'>
+    <tag k='caption' v='23' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688789' action='modify' visible='true' lat='46.55915981458' lon='15.63821075596'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688790' action='modify' visible='true' lat='46.55913490597' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688791' action='modify' visible='true' lat='46.55926784494' lon='15.63826964053'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688792' action='modify' visible='true' lat='46.5591602155' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688793' action='modify' visible='true' lat='46.55912225122' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688794' action='modify' visible='true' lat='46.55924875399' lon='15.63829421137'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688795' action='modify' visible='true' lat='46.55930590032' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688796' action='modify' visible='true' lat='46.55926784492' lon='15.63827373569'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688797' action='modify' visible='true' lat='46.55926784494' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688798' action='modify' visible='true' lat='46.55926784492' lon='15.63826970766'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688799' action='modify' visible='true' lat='46.55930434334' lon='15.63821069394'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688800' action='modify' visible='true' lat='46.55938221895' lon='15.63838039526'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688801' action='modify' visible='true' lat='46.55928536135' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688802' action='modify' visible='true' lat='46.55912817768' lon='15.63821075602'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688803' action='modify' visible='true' lat='46.5591317423' lon='15.638637832'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688804' action='modify' visible='true' lat='46.55935989006' lon='15.63849113855'>
+    <tag k='caption' v='31' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688805' action='modify' visible='true' lat='46.55914083243' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688806' action='modify' visible='true' lat='46.55911908751' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688807' action='modify' visible='true' lat='46.55926784494' lon='15.63826145026'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688808' action='modify' visible='true' lat='46.55914399613' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688809' action='modify' visible='true' lat='46.55914756076' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688810' action='modify' visible='true' lat='46.55929008199' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688811' action='modify' visible='true' lat='46.55932575175' lon='15.63847269143'>
+    <tag k='idx' v='257' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688812' action='modify' visible='true' lat='46.55926784492' lon='15.63824506973'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688813' action='modify' visible='true' lat='46.559382995' lon='15.63881374465'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688814' action='modify' visible='true' lat='46.55924964468' lon='15.63870344606'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688815' action='modify' visible='true' lat='46.55930117966' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688816' action='modify' visible='true' lat='46.55929640932' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688817' action='modify' visible='true' lat='46.5593452653' lon='15.63864060623'>
+    <tag k='caption' v='WC Invalidi M' />
+    <tag k='icon' v='WC_D' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688818' action='modify' visible='true' lat='46.55915348721' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688819' action='modify' visible='true' lat='46.55915705183' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688820' action='modify' visible='true' lat='46.55929485234' lon='15.63821069397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688821' action='modify' visible='true' lat='46.55915072446' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688822' action='modify' visible='true' lat='46.55918953491' lon='15.6383023291'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688823' action='modify' visible='true' lat='46.55938195449' lon='15.63823272233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688824' action='modify' visible='true' lat='46.5593141971' lon='15.63845423173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688825' action='modify' visible='true' lat='46.55929168869' lon='15.63821069397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688826' action='modify' visible='true' lat='46.55913134134' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688827' action='modify' visible='true' lat='46.55912491927' lon='15.63872693944'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688828' action='modify' visible='true' lat='46.55912501397' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688829' action='modify' visible='true' lat='46.55915072446' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688830' action='modify' visible='true' lat='46.55924875399' lon='15.63825325999'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688831' action='modify' visible='true' lat='46.55939460262' lon='15.63802566288'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688832' action='modify' visible='true' lat='46.55924875399' lon='15.63824097459'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688833' action='modify' visible='true' lat='46.55930496515' lon='15.63876172173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688834' action='modify' visible='true' lat='46.5593141971' lon='15.63823272233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688835' action='modify' visible='true' lat='46.55929324567' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688836' action='modify' visible='true' lat='46.55929957298' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688837' action='modify' visible='true' lat='46.5592968653' lon='15.63822170727'>
+    <tag k='idx' v='269' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688838' action='modify' visible='true' lat='46.55913450505' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688839' action='modify' visible='true' lat='46.55913806968' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688840' action='modify' visible='true' lat='46.55918844908' lon='15.63826736424'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688841' action='modify' visible='true' lat='46.55933742893' lon='15.63823279591'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688842' action='modify' visible='true' lat='46.55929485234' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688843' action='modify' visible='true' lat='46.55915665088' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688844' action='modify' visible='true' lat='46.5591873752' lon='15.63815190677'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688845' action='modify' visible='true' lat='46.55928219767' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688846' action='modify' visible='true' lat='46.55915032351' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688847' action='modify' visible='true' lat='46.55912857859' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688848' action='modify' visible='true' lat='46.55912185026' lon='15.63821075602'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688849' action='modify' visible='true' lat='46.55918763699' lon='15.63824121389'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688850' action='modify' visible='true' lat='46.55926702559' lon='15.63869363713'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688851' action='modify' visible='true' lat='46.55930906398' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688852' action='modify' visible='true' lat='46.55914123338' lon='15.638637832'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688853' action='modify' visible='true' lat='46.55917960895' lon='15.63868010866'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688854' action='modify' visible='true' lat='46.55933742893' lon='15.63856491572'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688855' action='modify' visible='true' lat='46.55928219769' lon='15.638210694'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688856' action='modify' visible='true' lat='46.55935982394' lon='15.63839885437'>
+    <tag k='caption' v='29' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688857' action='modify' visible='true' lat='46.55914715984' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688858' action='modify' visible='true' lat='46.55912541489' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688859' action='modify' visible='true' lat='46.55924875399' lon='15.6382655454'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688860' action='modify' visible='true' lat='46.5591570518' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688861' action='modify' visible='true' lat='46.55924875395' lon='15.63826736424'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688862' action='modify' visible='true' lat='46.55926784496' lon='15.6382860211'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688863' action='modify' visible='true' lat='46.55931222765' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688864' action='modify' visible='true' lat='46.55930590032' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688865' action='modify' visible='true' lat='46.5593550039' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688866' action='modify' visible='true' lat='46.55915665088' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688867' action='modify' visible='true' lat='46.55913490597' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688868' action='modify' visible='true' lat='46.55938215289' lon='15.6383435122'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688869' action='modify' visible='true' lat='46.55929168867' lon='15.6381854523'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688870' action='modify' visible='true' lat='46.55912501397' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688871' action='modify' visible='true' lat='46.55912857859' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688872' action='modify' visible='true' lat='46.55914399613' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688873' action='modify' visible='true' lat='46.55914756076' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688874' action='modify' visible='true' lat='46.55924875395' lon='15.63829366028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688875' action='modify' visible='true' lat='46.55926784494' lon='15.6382983065'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688876' action='modify' visible='true' lat='46.55914083243' lon='15.63821075602'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688877' action='modify' visible='true' lat='46.55911908751' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688878' action='modify' visible='true' lat='46.55926784494' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688879' action='modify' visible='true' lat='46.55936906967' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688880' action='modify' visible='true' lat='46.55924875399' lon='15.63827783083'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688881' action='modify' visible='true' lat='46.55929019372' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688882' action='modify' visible='true' lat='46.55935315093' lon='15.63865572758'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688883' action='modify' visible='true' lat='46.55930117968' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688884' action='modify' visible='true' lat='46.55930273666' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688885' action='modify' visible='true' lat='46.55936843688' lon='15.63820908734'>
+    <tag k='caption' v='WC ženski M Sever' />
+    <tag k='icon' v='WC_W' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688886' action='modify' visible='true' lat='46.55915032351' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688887' action='modify' visible='true' lat='46.55915388813' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688888' action='modify' visible='true' lat='46.55912491931' lon='15.63872693944'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688889' action='modify' visible='true' lat='46.55924875399' lon='15.6382983065'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688890' action='modify' visible='true' lat='46.55929640932' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688891' action='modify' visible='true' lat='46.55932577147' lon='15.63856356048'>
+    <tag k='idx' v='267' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688892' action='modify' visible='true' lat='46.55925204902' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688893' action='modify' visible='true' lat='46.5593141971' lon='15.63841731347'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688894' action='modify' visible='true' lat='46.559298016' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688895' action='modify' visible='true' lat='46.55913766876' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688896' action='modify' visible='true' lat='46.55926784494' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688897' action='modify' visible='true' lat='46.55929008201' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688898' action='modify' visible='true' lat='46.55914715984' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688899' action='modify' visible='true' lat='46.55912541489' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688900' action='modify' visible='true' lat='46.55914083243' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688901' action='modify' visible='true' lat='46.5591602155' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688902' action='modify' visible='true' lat='46.55926784492' lon='15.63824097459'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688903' action='modify' visible='true' lat='46.55910497352' lon='15.63876172173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688904' action='modify' visible='true' lat='46.55913806968' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688905' action='modify' visible='true' lat='46.55908895696' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688906' action='modify' visible='true' lat='46.55933742893' lon='15.63852804536'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688907' action='modify' visible='true' lat='46.55928852501' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688908' action='modify' visible='true' lat='46.55924875395' lon='15.63827610591'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688909' action='modify' visible='true' lat='46.5591872715' lon='15.63874619827'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688910' action='modify' visible='true' lat='46.55930117966' lon='15.6381854523'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688911' action='modify' visible='true' lat='46.55912185026' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688912' action='modify' visible='true' lat='46.55913134134' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688913' action='modify' visible='true' lat='46.55914756076' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688914' action='modify' visible='true' lat='46.55926784492' lon='15.63825325999'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688915' action='modify' visible='true' lat='46.55914439705' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688916' action='modify' visible='true' lat='46.55924875395' lon='15.63824988271'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688917' action='modify' visible='true' lat='46.55930493514' lon='15.63868983761'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688918' action='modify' visible='true' lat='46.55929640932' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688919' action='modify' visible='true' lat='46.55912225118' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688920' action='modify' visible='true' lat='46.55926784494' lon='15.63825735513'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688921' action='modify' visible='true' lat='46.55933742893' lon='15.63830659397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688922' action='modify' visible='true' lat='46.55928852501' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688923' action='modify' visible='true' lat='46.55924875399' lon='15.63829011623'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688924' action='modify' visible='true' lat='46.55931222763' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688925' action='modify' visible='true' lat='46.55935975786' lon='15.63832505308'>
+    <tag k='caption' v='27' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688926' action='modify' visible='true' lat='46.55911868655' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688927' action='modify' visible='true' lat='46.55915348717' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688928' action='modify' visible='true' lat='46.55913174226' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688929' action='modify' visible='true' lat='46.55926784494' lon='15.63824506973'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688930' action='modify' visible='true' lat='46.55919736999' lon='15.63871100497'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688931' action='modify' visible='true' lat='46.55913134134' lon='15.63821075602'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688932' action='modify' visible='true' lat='46.55913490597' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688933' action='modify' visible='true' lat='46.5593059003' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688934' action='modify' visible='true' lat='46.5593257354' lon='15.63836195273'>
+    <tag k='idx' v='276' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688935' action='modify' visible='true' lat='46.55918926568' lon='15.63829366028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688936' action='modify' visible='true' lat='46.55924875399' lon='15.63830240163'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688937' action='modify' visible='true' lat='46.559299573' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688938' action='modify' visible='true' lat='46.55929102101' lon='15.63828815081'>
+    <tag k='caption' v='18' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688939' action='modify' visible='true' lat='46.55919899863' lon='15.63860707118'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688940' action='modify' visible='true' lat='46.55938271203' lon='15.63865572758'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688941' action='modify' visible='true' lat='46.55915032351' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688942' action='modify' visible='true' lat='46.55915388813' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688943' action='modify' visible='true' lat='46.55933737967' lon='15.63865572758'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688944' action='modify' visible='true' lat='46.55930434334' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688945' action='modify' visible='true' lat='46.55912185026' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688946' action='modify' visible='true' lat='46.55918844906' lon='15.63826736421'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688947' action='modify' visible='true' lat='46.55915665088' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688948' action='modify' visible='true' lat='46.5591602155' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688949' action='modify' visible='true' lat='46.55926784494' lon='15.63826964053'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688950' action='modify' visible='true' lat='46.55917726493' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688951' action='modify' visible='true' lat='46.55934392233' lon='15.63819646561'>
+    <tag k='idx' v='264' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688952' action='modify' visible='true' lat='46.55913766872' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688953' action='modify' visible='true' lat='46.5591570518' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688954' action='modify' visible='true' lat='46.55924875395' lon='15.63823687946'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688955' action='modify' visible='true' lat='46.55913450505' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688956' action='modify' visible='true' lat='46.55914116931' lon='15.6386967606'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688957' action='modify' visible='true' lat='46.55926784496' lon='15.6382983065'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688958' action='modify' visible='true' lat='46.55929640932' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688959' action='modify' visible='true' lat='46.55914399613' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688960' action='modify' visible='true' lat='46.55912225118' lon='15.638637832'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688961' action='modify' visible='true' lat='46.55918737522' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688962' action='modify' visible='true' lat='46.55926784494' lon='15.63865572758'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688963' action='modify' visible='true' lat='46.55939460263' lon='15.63802566291'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688964' action='modify' visible='true' lat='46.55933742893' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688965' action='modify' visible='true' lat='46.55928536133' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688966' action='modify' visible='true' lat='46.55928536135' lon='15.63821069397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688967' action='modify' visible='true' lat='46.55914123334' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688968' action='modify' visible='true' lat='46.5591873752' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688969' action='modify' visible='true' lat='46.55938262413' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688970' action='modify' visible='true' lat='46.559298016' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688971' action='modify' visible='true' lat='46.55914083243' lon='15.63821075602'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688972' action='modify' visible='true' lat='46.55914439705' lon='15.638637832'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688973' action='modify' visible='true' lat='46.55926784494' lon='15.63852804536'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688974' action='modify' visible='true' lat='46.55924875399' lon='15.63828192596'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688975' action='modify' visible='true' lat='46.55920555537' lon='15.63815190677'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688976' action='modify' visible='true' lat='46.5593141971' lon='15.63838039526'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688977' action='modify' visible='true' lat='46.55929485234' lon='15.63821069397'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688978' action='modify' visible='true' lat='46.55929324567' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688979' action='modify' visible='true' lat='46.55912817764' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688980' action='modify' visible='true' lat='46.55915388813' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688981' action='modify' visible='true' lat='46.55921596941' lon='15.63871523303'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688982' action='modify' visible='true' lat='46.55931419712' lon='15.63849115313'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688983' action='modify' visible='true' lat='46.55929485232' lon='15.6381854523'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688984' action='modify' visible='true' lat='46.55912817764' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688985' action='modify' visible='true' lat='46.55935969172' lon='15.63825121822'>
+    <tag k='caption' v='WC moški M Sever' />
+    <tag k='icon' v='WC_M' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688986' action='modify' visible='true' lat='46.55912501397' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688987' action='modify' visible='true' lat='46.55912857859' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688988' action='modify' visible='true' lat='46.55924875399' lon='15.63826145026'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688989' action='modify' visible='true' lat='46.55913806968' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688990' action='modify' visible='true' lat='46.55924875399' lon='15.63824916486'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688991' action='modify' visible='true' lat='46.55921920757' lon='15.63870964887'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688992' action='modify' visible='true' lat='46.55930434332' lon='15.6381854523'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688993' action='modify' visible='true' lat='46.55924875395' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688994' action='modify' visible='true' lat='46.55930273664' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688995' action='modify' visible='true' lat='46.5593257354' lon='15.6384357716'>
+    <tag k='idx' v='274' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1688996' action='modify' visible='true' lat='46.55915981458' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688997' action='modify' visible='true' lat='46.55930590032' lon='15.63865572764'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688998' action='modify' visible='true' lat='46.55929102101' lon='15.63836195373'>
+    <tag k='caption' v='20' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1688999' action='modify' visible='true' lat='46.55915348717' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689000' action='modify' visible='true' lat='46.55913174226' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689001' action='modify' visible='true' lat='46.5591471598' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689002' action='modify' visible='true' lat='46.55915072442' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689003' action='modify' visible='true' lat='46.55924875395' lon='15.63828477472'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689004' action='modify' visible='true' lat='46.55933742893' lon='15.63830663238'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689005' action='modify' visible='true' lat='46.55911868655' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689006' action='modify' visible='true' lat='46.55924875395' lon='15.63825876825'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689007' action='modify' visible='true' lat='46.55926784494' lon='15.63828192596'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689008' action='modify' visible='true' lat='46.55930906398' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689009' action='modify' visible='true' lat='46.55924875399' lon='15.63827373567'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689010' action='modify' visible='true' lat='46.5591691823' lon='15.63835479679'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689011' action='modify' visible='true' lat='46.55936906967' lon='15.63862548489'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689012' action='modify' visible='true' lat='46.55915665088' lon='15.63820192747'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689013' action='modify' visible='true' lat='46.55914399613' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689014' action='modify' visible='true' lat='46.55912225122' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689015' action='modify' visible='true' lat='46.55926784492' lon='15.63823687946'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689016' action='modify' visible='true' lat='46.55938186985' lon='15.63818545236'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689017' action='modify' visible='true' lat='46.55914116931' lon='15.63868010866'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689018' action='modify' visible='true' lat='46.55924875399' lon='15.63829421137'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689019' action='modify' visible='true' lat='46.55930906398' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689020' action='modify' visible='true' lat='46.5593258128' lon='15.63822170727'>
+    <tag k='idx' v='261' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1689021' action='modify' visible='true' lat='46.55917080233' lon='15.63820142745'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689022' action='modify' visible='true' lat='46.55926784494' lon='15.63865572758'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689023' action='modify' visible='true' lat='46.55915348721' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689024' action='modify' visible='true' lat='46.5591317423' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689025' action='modify' visible='true' lat='46.55933742893' lon='15.63845423173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689026' action='modify' visible='true' lat='46.55928219767' lon='15.63818545233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689027' action='modify' visible='true' lat='46.55915032351' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689028' action='modify' visible='true' lat='46.55912857859' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689029' action='modify' visible='true' lat='46.55929168867' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689030' action='modify' visible='true' lat='46.55914756076' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689031' action='modify' visible='true' lat='46.55924875395' lon='15.63824121389'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689032' action='modify' visible='true' lat='46.55933742893' lon='15.63823272233'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689033' action='modify' visible='true' lat='46.55913766872' lon='15.63823278432'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689034' action='modify' visible='true' lat='46.55914123334' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689035' action='modify' visible='true' lat='46.55929324567' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689036' action='modify' visible='true' lat='46.55926784494' lon='15.63845423173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689037' action='modify' visible='true' lat='46.55926784494' lon='15.63828192596'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689038' action='modify' visible='true' lat='46.5593141971' lon='15.6383435122'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689039' action='modify' visible='true' lat='46.55930117966' lon='15.6382327223'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689040' action='modify' visible='true' lat='46.55915705183' lon='15.63862900343'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689041' action='modify' visible='true' lat='46.55929957298' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689042' action='modify' visible='true' lat='46.55913450505' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689043' action='modify' visible='true' lat='46.55915072442' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689044' action='modify' visible='true' lat='46.55913450505' lon='15.63821075599'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689045' action='modify' visible='true' lat='46.55914116927' lon='15.63872693944'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689046' action='modify' visible='true' lat='46.55930273664' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689047' action='modify' visible='true' lat='46.55932576305' lon='15.63828815143'>
+    <tag k='idx' v='272' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1689048' action='modify' visible='true' lat='46.55926784492' lon='15.63825325999'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689049' action='modify' visible='true' lat='46.55926651071' lon='15.63876172173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689050' action='modify' visible='true' lat='46.55926784494' lon='15.63841731353'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689051' action='modify' visible='true' lat='46.55929168867' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689052' action='modify' visible='true' lat='46.55924037894' lon='15.63870599192'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689053' action='modify' visible='true' lat='46.55930117966' lon='15.63820748069'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689054' action='modify' visible='true' lat='46.55914399613' lon='15.63821075602'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689055' action='modify' visible='true' lat='46.55914756076' lon='15.63863783195'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689056' action='modify' visible='true' lat='46.55913134134' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689057' action='modify' visible='true' lat='46.55913490597' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689058' action='modify' visible='true' lat='46.55926784492' lon='15.63824097459'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689059' action='modify' visible='true' lat='46.55930496515' lon='15.63881374465'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689060' action='modify' visible='true' lat='46.55915981458' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689061' action='modify' visible='true' lat='46.55913806968' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689062' action='modify' visible='true' lat='46.55926784494' lon='15.6382655454'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689063' action='modify' visible='true' lat='46.55916597821' lon='15.63825483122'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689064' action='modify' visible='true' lat='46.55918898976' lon='15.63828477472'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689065' action='modify' visible='true' lat='46.55938202073' lon='15.63826970766'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689066' action='modify' visible='true' lat='46.55930273666' lon='15.63863369925'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689067' action='modify' visible='true' lat='46.55929102101' lon='15.6384357726'>
+    <tag k='caption' v='22' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689068' action='modify' visible='true' lat='46.55924875399' lon='15.6382860211'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689069' action='modify' visible='true' lat='46.55931222763' lon='15.63862867479'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689070' action='modify' visible='true' lat='46.55912185026' lon='15.63817989914'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689071' action='modify' visible='true' lat='46.55912541489' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689072' action='modify' visible='true' lat='46.55935542809' lon='15.6386066464'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689073' action='modify' visible='true' lat='46.55928536135' lon='15.638210694'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689074' action='modify' visible='true' lat='46.55912501397' lon='15.63821075602'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689075' action='modify' visible='true' lat='46.55918818215' lon='15.63825876825'>
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689076' action='modify' visible='true' lat='46.55920048591' lon='15.63802483097' />
+  <node id='-1689077' action='modify' visible='true' lat='46.559097282' lon='15.6384819792' />
+  <node id='-1689078' action='modify' visible='true' lat='46.55910071653' lon='15.63860689369' />
+  <node id='-1689079' action='modify' visible='true' lat='46.55909103511' lon='15.63825477788' />
+  <node id='-1689080' action='modify' visible='true' lat='46.55909378588' lon='15.63835482421' />
+  <node id='-1689081' action='modify' visible='true' lat='46.55910217195' lon='15.63865982796' />
+  <node id='-1689082' action='modify' visible='true' lat='46.5593437777' lon='15.6386176597'>
+    <tag k='idx' v='279' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1689083' action='modify' visible='true' lat='46.55927872625' lon='15.63864471352'>
+    <tag k='idx' v='608' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1689084' action='modify' visible='true' lat='46.55917726493' lon='15.63860697509'>
+    <tag k='building' v='object' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='-1689085' action='modify' visible='true' lat='46.55917895997' lon='15.63865986028'>
+    <tag k='building' v='object' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='-1689086' action='modify' visible='true' lat='46.55930156136' lon='15.63864471352'>
+    <tag k='idx' v='607' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1689087' action='modify' visible='true' lat='46.55930321439' lon='15.63864471352'>
+    <tag k='idx' v='606' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1689088' action='modify' visible='true' lat='46.5593257717' lon='15.63864471352'>
+    <tag k='idx' v='605' />
+    <tag k='level' v='3' />
+    <tag k='location' v='point' />
+  </node>
+  <node id='-1689089' action='modify' visible='true' lat='46.5591873752' lon='15.63815190677'>
+    <tag k='building' v='object' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='-1689090' action='modify' visible='true' lat='46.5591873752' lon='15.63817989914' />
+  <node id='-1689091' action='modify' visible='true' lat='46.5591873752' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='-1689092' action='modify' visible='true' lat='46.55911868655' lon='15.63823278429'>
+    <tag k='building' v='object' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='-1689093' action='modify' visible='true' lat='46.5590249338' lon='15.63843852463'>
+    <tag k='caption' v='MEDETAŽA' />
+    <tag k='level' v='3' />
+  </node>
+  <node id='-1689094' action='modify' visible='true' lat='46.55910497352' lon='15.63876172173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1689095' action='modify' visible='true' lat='46.55910272957' lon='15.63868010866'>
+    <tag k='building' v='object' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1689096' action='modify' visible='true' lat='46.55914116931' lon='15.63868010866'>
+    <tag k='building' v='object' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1689097' action='modify' visible='true' lat='46.55914116931' lon='15.6386967606'>
+    <tag k='building' v='object' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1689098' action='modify' visible='true' lat='46.55912491931' lon='15.6386967606'>
+    <tag k='building' v='object' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1689099' action='modify' visible='true' lat='46.55912491927' lon='15.63875328848'>
+    <tag k='building' v='object' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1689100' action='modify' visible='true' lat='46.55914116927' lon='15.63875328848'>
+    <tag k='building' v='object' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1689101' action='modify' visible='true' lat='46.55914116931' lon='15.63876172173'>
+    <tag k='building' v='object' />
+    <tag k='level' v='1' />
+  </node>
+  <way id='-348561' action='modify' visible='true'>
+    <nd ref='-1689066' />
+    <nd ref='-1688726' />
+    <nd ref='-1688997' />
+    <nd ref='-1688664' />
+    <nd ref='-1689066' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348562' action='modify' visible='true'>
+    <nd ref='-1688963' />
+    <nd ref='-1688545' />
+    <nd ref='-1689076' />
+    <nd ref='-1688488' />
+    <nd ref='-1688903' />
+    <nd ref='-1688833' />
+    <nd ref='-1688502' />
+    <nd ref='-1688813' />
+    <nd ref='-1688604' />
+    <nd ref='-1688490' />
+    <nd ref='-1688963' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='outline' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348563' action='modify' visible='true'>
+    <nd ref='-1688722' />
+    <nd ref='-1689009' />
+    <nd ref='-1688660' />
+    <nd ref='-1688949' />
+    <nd ref='-1688722' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348564' action='modify' visible='true'>
+    <nd ref='-1688956' />
+    <nd ref='-1688615' />
+    <nd ref='-1688888' />
+    <nd ref='-1688556' />
+    <nd ref='-1688956' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='elevator' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348565' action='modify' visible='true'>
+    <nd ref='-1688969' />
+    <nd ref='-1688879' />
+    <nd ref='-1688639' />
+    <nd ref='-1688940' />
+    <nd ref='-1688760' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348566' action='modify' visible='true'>
+    <nd ref='-1688582' />
+    <nd ref='-1688870' />
+    <nd ref='-1688562' />
+    <nd ref='-1688802' />
+    <nd ref='-1688582' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348567' action='modify' visible='true'>
+    <nd ref='-1688951' />
+    <nd ref='-1688680' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348568' action='modify' visible='true'>
+    <nd ref='-1688928' />
+    <nd ref='-1688626' />
+    <nd ref='-1688867' />
+    <nd ref='-1688559' />
+    <nd ref='-1688928' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348569' action='modify' visible='true'>
+    <nd ref='-1688643' />
+    <nd ref='-1688922' />
+    <nd ref='-1688581' />
+    <nd ref='-1688869' />
+    <nd ref='-1688643' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348570' action='modify' visible='true'>
+    <nd ref='-1688532' />
+    <nd ref='-1688798' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348571' action='modify' visible='true'>
+    <nd ref='-1689032' />
+    <nd ref='-1688691' />
+    <nd ref='-1688969' />
+    <nd ref='-1688629' />
+    <nd ref='-1689032' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348572' action='modify' visible='true'>
+    <nd ref='-1688600' />
+    <nd ref='-1688872' />
+    <nd ref='-1688857' />
+    <nd ref='-1688534' />
+    <nd ref='-1688600' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348573' action='modify' visible='true'>
+    <nd ref='-1688478' />
+    <nd ref='-1688729' />
+    <nd ref='-1689040' />
+    <nd ref='-1688668' />
+    <nd ref='-1688478' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348574' action='modify' visible='true'>
+    <nd ref='-1688651' />
+    <nd ref='-1688939' />
+    <nd ref='-1688590' />
+    <nd ref='-1688878' />
+    <nd ref='-1688651' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348575' action='modify' visible='true'>
+    <nd ref='-1689003' />
+    <nd ref='-1688662' />
+    <nd ref='-1688935' />
+    <nd ref='-1688602' />
+    <nd ref='-1689003' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348576' action='modify' visible='true'>
+    <nd ref='-1688504' />
+    <nd ref='-1688790' />
+    <nd ref='-1689061' />
+    <nd ref='-1688721' />
+    <nd ref='-1688504' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348577' action='modify' visible='true'>
+    <nd ref='-1688482' />
+    <nd ref='-1688733' />
+    <nd ref='-1689037' />
+    <nd ref='-1688672' />
+    <nd ref='-1688482' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348578' action='modify' visible='true'>
+    <nd ref='-1688993' />
+    <nd ref='-1689031' />
+    <nd ref='-1688690' />
+    <nd ref='-1688968' />
+    <nd ref='-1688993' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348579' action='modify' visible='true'>
+    <nd ref='-1688571' />
+    <nd ref='-1688843' />
+    <nd ref='-1688511' />
+    <nd ref='-1688789' />
+    <nd ref='-1688571' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348580' action='modify' visible='true'>
+    <nd ref='-1688934' />
+    <nd ref='-1688707' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348581' action='modify' visible='true'>
+    <nd ref='-1688837' />
+    <nd ref='-1689020' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348582' action='modify' visible='true'>
+    <nd ref='-1689071' />
+    <nd ref='-1688699' />
+    <nd ref='-1688987' />
+    <nd ref='-1688647' />
+    <nd ref='-1689071' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348583' action='modify' visible='true'>
+    <nd ref='-1688816' />
+    <nd ref='-1688470' />
+    <nd ref='-1688753' />
+    <nd ref='-1689041' />
+    <nd ref='-1688816' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348584' action='modify' visible='true'>
+    <nd ref='-1688663' />
+    <nd ref='-1689004' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348585' action='modify' visible='true'>
+    <nd ref='-1688834' />
+    <nd ref='-1688841' />
+    <nd ref='-1688508' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348586' action='modify' visible='true'>
+    <nd ref='-1688681' />
+    <nd ref='-1688952' />
+    <nd ref='-1688612' />
+    <nd ref='-1688900' />
+    <nd ref='-1688681' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348587' action='modify' visible='true'>
+    <nd ref='-1688487' />
+    <nd ref='-1688473' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348588' action='modify' visible='true'>
+    <nd ref='-1688702' />
+    <nd ref='-1689005' />
+    <nd ref='-1688641' />
+    <nd ref='-1688945' />
+    <nd ref='-1688702' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348589' action='modify' visible='true'>
+    <nd ref='-1688759' />
+    <nd ref='-1688744' />
+    <nd ref='-1689015' />
+    <nd ref='-1688675' />
+    <nd ref='-1688759' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348590' action='modify' visible='true'>
+    <nd ref='-1688583' />
+    <nd ref='-1688871' />
+    <nd ref='-1688563' />
+    <nd ref='-1688803' />
+    <nd ref='-1688583' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348591' action='modify' visible='true'>
+    <nd ref='-1689026' />
+    <nd ref='-1688717' />
+    <nd ref='-1688965' />
+    <nd ref='-1688655' />
+    <nd ref='-1689026' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348592' action='modify' visible='true'>
+    <nd ref='-1688882' />
+    <nd ref='-1688578' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348593' action='modify' visible='true'>
+    <nd ref='-1688833' />
+    <nd ref='-1688502' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348594' action='modify' visible='true'>
+    <nd ref='-1688601' />
+    <nd ref='-1688873' />
+    <nd ref='-1688526' />
+    <nd ref='-1688821' />
+    <nd ref='-1688601' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348595' action='modify' visible='true'>
+    <nd ref='-1689035' />
+    <nd ref='-1688693' />
+    <nd ref='-1688679' />
+    <nd ref='-1688958' />
+    <nd ref='-1689035' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348596' action='modify' visible='true'>
+    <nd ref='-1689077' />
+    <nd ref='-1689078' />
+    <nd ref='-1688950' />
+    <nd ref='-1688723' />
+    <nd ref='-1689077' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348597' action='modify' visible='true'>
+    <nd ref='-1688635' />
+    <nd ref='-1688923' />
+    <nd ref='-1688575' />
+    <nd ref='-1688862' />
+    <nd ref='-1688635' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348598' action='modify' visible='true'>
+    <nd ref='-1688977' />
+    <nd ref='-1688606' />
+    <nd ref='-1688894' />
+    <nd ref='-1688554' />
+    <nd ref='-1688977' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348599' action='modify' visible='true'>
+    <nd ref='-1688999' />
+    <nd ref='-1688658' />
+    <nd ref='-1688947' />
+    <nd ref='-1688598' />
+    <nd ref='-1688999' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348600' action='modify' visible='true'>
+    <nd ref='-1688995' />
+    <nd ref='-1688811' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348601' action='modify' visible='true'>
+    <nd ref='-1689063' />
+    <nd ref='-1689079' />
+    <nd ref='-1689080' />
+    <nd ref='-1688784' />
+    <nd ref='-1689063' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348602' action='modify' visible='true'>
+    <nd ref='-1688806' />
+    <nd ref='-1688452' />
+    <nd ref='-1688743' />
+    <nd ref='-1689014' />
+    <nd ref='-1688806' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348603' action='modify' visible='true'>
+    <nd ref='-1688897' />
+    <nd ref='-1688595' />
+    <nd ref='-1688835' />
+    <nd ref='-1688494' />
+    <nd ref='-1688897' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348604' action='modify' visible='true'>
+    <nd ref='-1688800' />
+    <nd ref='-1688537' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348605' action='modify' visible='true'>
+    <nd ref='-1688834' />
+    <nd ref='-1688503' />
+    <nd ref='-1688782' />
+    <nd ref='-1688531' />
+    <nd ref='-1688834' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348606' action='modify' visible='true'>
+    <nd ref='-1689056' />
+    <nd ref='-1688708' />
+    <nd ref='-1688755' />
+    <nd ref='-1689042' />
+    <nd ref='-1689056' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348607' action='modify' visible='true'>
+    <nd ref='-1688608' />
+    <nd ref='-1688741' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348608' action='modify' visible='true'>
+    <nd ref='-1689049' />
+    <nd ref='-1688709' />
+    <nd ref='-1688981' />
+    <nd ref='-1688649' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348609' action='modify' visible='true'>
+    <nd ref='-1688832' />
+    <nd ref='-1688500' />
+    <nd ref='-1688812' />
+    <nd ref='-1689058' />
+    <nd ref='-1688832' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348610' action='modify' visible='true'>
+    <nd ref='-1688960' />
+    <nd ref='-1688657' />
+    <nd ref='-1688899' />
+    <nd ref='-1688589' />
+    <nd ref='-1688960' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348611' action='modify' visible='true'>
+    <nd ref='-1688579' />
+    <nd ref='-1688883' />
+    <nd ref='-1688528' />
+    <nd ref='-1688799' />
+    <nd ref='-1688579' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348612' action='modify' visible='true'>
+    <nd ref='-1688486' />
+    <nd ref='-1688488' />
+    <nd ref='-1688498' />
+    <nd ref='-1688501' />
+    <nd ref='-1688486' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348613' action='modify' visible='true'>
+    <nd ref='-1688524' />
+    <nd ref='-1688618' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348614' action='modify' visible='true'>
+    <nd ref='-1688967' />
+    <nd ref='-1688627' />
+    <nd ref='-1688915' />
+    <nd ref='-1688568' />
+    <nd ref='-1688967' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348615' action='modify' visible='true'>
+    <nd ref='-1688485' />
+    <nd ref='-1688768' />
+    <nd ref='-1689046' />
+    <nd ref='-1688706' />
+    <nd ref='-1688485' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348616' action='modify' visible='true'>
+    <nd ref='-1688963' />
+    <nd ref='-1688676' />
+    <nd ref='-1689026' />
+    <nd ref='-1688460' />
+    <nd ref='-1688878' />
+    <nd ref='-1689022' />
+    <nd ref='-1688940' />
+    <nd ref='-1688813' />
+    <nd ref='-1688502' />
+    <nd ref='-1688833' />
+    <nd ref='-1688903' />
+    <nd ref='-1689081' />
+    <nd ref='-1688488' />
+    <nd ref='-1689076' />
+    <nd ref='-1688545' />
+    <nd ref='-1688963' />
+    <tag k='indoors' v='unaccessable' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348617' action='modify' visible='true'>
+    <nd ref='-1688474' />
+    <nd ref='-1688757' />
+    <nd ref='-1689029' />
+    <nd ref='-1688695' />
+    <nd ref='-1688474' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348618' action='modify' visible='true'>
+    <nd ref='-1688785' />
+    <nd ref='-1689072' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348619' action='modify' visible='true'>
+    <nd ref='-1688465' />
+    <nd ref='-1688740' />
+    <nd ref='-1689027' />
+    <nd ref='-1688718' />
+    <nd ref='-1688465' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348620' action='modify' visible='true'>
+    <nd ref='-1688486' />
+    <nd ref='-1688673' />
+    <nd ref='-1688975' />
+    <nd ref='-1689076' />
+    <nd ref='-1688486' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348621' action='modify' visible='true'>
+    <nd ref='-1688948' />
+    <nd ref='-1688599' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348622' action='modify' visible='true'>
+    <nd ref='-1688683' />
+    <nd ref='-1688970' />
+    <nd ref='-1688621' />
+    <nd ref='-1688910' />
+    <nd ref='-1688683' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348623' action='modify' visible='true'>
+    <nd ref='-1688677' />
+    <nd ref='-1689025' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348624' action='modify' visible='true'>
+    <nd ref='-1689018' />
+    <nd ref='-1688678' />
+    <nd ref='-1688957' />
+    <nd ref='-1688616' />
+    <nd ref='-1689018' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348625' action='modify' visible='true'>
+    <nd ref='-1688542' />
+    <nd ref='-1688828' />
+    <nd ref='-1688513' />
+    <nd ref='-1688761' />
+    <nd ref='-1688542' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348626' action='modify' visible='true'>
+    <nd ref='-1688769' />
+    <nd ref='-1689047' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348627' action='modify' visible='true'>
+    <nd ref='-1688632' />
+    <nd ref='-1688905' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348628' action='modify' visible='true'>
+    <nd ref='-1689006' />
+    <nd ref='-1688642' />
+    <nd ref='-1688946' />
+    <nd ref='-1688574' />
+    <nd ref='-1689006' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348629' action='modify' visible='true'>
+    <nd ref='-1688619' />
+    <nd ref='-1688611' />
+    <nd ref='-1688914' />
+    <nd ref='-1688544' />
+    <nd ref='-1688619' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348630' action='modify' visible='true'>
+    <nd ref='-1689017' />
+    <nd ref='-1688669' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348631' action='modify' visible='true'>
+    <nd ref='-1689036' />
+    <nd ref='-1688694' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348632' action='modify' visible='true'>
+    <nd ref='-1688891' />
+    <nd ref='-1688550' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348633' action='modify' visible='true'>
+    <nd ref='-1689057' />
+    <nd ref='-1688749' />
+    <nd ref='-1688989' />
+    <nd ref='-1688688' />
+    <nd ref='-1689057' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348634' action='modify' visible='true'>
+    <nd ref='-1688864' />
+    <nd ref='-1688564' />
+    <nd ref='-1688548' />
+    <nd ref='-1688851' />
+    <nd ref='-1688864' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348635' action='modify' visible='true'>
+    <nd ref='-1688730' />
+    <nd ref='-1688950' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348636' action='modify' visible='true'>
+    <nd ref='-1688469' />
+    <nd ref='-1688760' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348637' action='modify' visible='true'>
+    <nd ref='-1688855' />
+    <nd ref='-1688516' />
+    <nd ref='-1688786' />
+    <nd ref='-1689073' />
+    <nd ref='-1688855' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348638' action='modify' visible='true'>
+    <nd ref='-1688865' />
+    <nd ref='-1688557' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348639' action='modify' visible='true'>
+    <nd ref='-1688876' />
+    <nd ref='-1688495' />
+    <nd ref='-1688808' />
+    <nd ref='-1689054' />
+    <nd ref='-1688876' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348640' action='modify' visible='true'>
+    <nd ref='-1688463' />
+    <nd ref='-1688777' />
+    <nd ref='-1689064' />
+    <nd ref='-1688716' />
+    <nd ref='-1688463' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348641' action='modify' visible='true'>
+    <nd ref='-1688756' />
+    <nd ref='-1689043' />
+    <nd ref='-1688671' />
+    <nd ref='-1688980' />
+    <nd ref='-1688756' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348642' action='modify' visible='true'>
+    <nd ref='-1688773' />
+    <nd ref='-1689051' />
+    <nd ref='-1688711' />
+    <nd ref='-1688983' />
+    <nd ref='-1688773' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348643' action='modify' visible='true'>
+    <nd ref='-1688824' />
+    <nd ref='-1689036' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348644' action='modify' visible='true'>
+    <nd ref='-1688926' />
+    <nd ref='-1688585' />
+    <nd ref='-1688622' />
+    <nd ref='-1688911' />
+    <nd ref='-1688926' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348645' action='modify' visible='true'>
+    <nd ref='-1688624' />
+    <nd ref='-1688608' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348646' action='modify' visible='true'>
+    <nd ref='-1688686' />
+    <nd ref='-1688934' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348647' action='modify' visible='true'>
+    <nd ref='-1688781' />
+    <nd ref='-1689021' />
+    <nd ref='-1688720' />
+    <nd ref='-1688961' />
+    <nd ref='-1688781' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='elevator' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348648' action='modify' visible='true'>
+    <nd ref='-1689008' />
+    <nd ref='-1688636' />
+    <nd ref='-1688924' />
+    <nd ref='-1688576' />
+    <nd ref='-1689008' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348649' action='modify' visible='true'>
+    <nd ref='-1689065' />
+    <nd ref='-1688725' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348650' action='modify' visible='true'>
+    <nd ref='-1688700' />
+    <nd ref='-1688988' />
+    <nd ref='-1688648' />
+    <nd ref='-1688920' />
+    <nd ref='-1688700' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348651' action='modify' visible='true'>
+    <nd ref='-1688827' />
+    <nd ref='-1688484' />
+    <nd ref='-1688775' />
+    <nd ref='-1689045' />
+    <nd ref='-1688705' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='elevator' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348652' action='modify' visible='true'>
+    <nd ref='-1688782' />
+    <nd ref='-1689022' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348653' action='modify' visible='true'>
+    <nd ref='-1688955' />
+    <nd ref='-1688607' />
+    <nd ref='-1688895' />
+    <nd ref='-1688555' />
+    <nd ref='-1688955' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348654' action='modify' visible='true'>
+    <nd ref='-1688741' />
+    <nd ref='-1689082' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348655' action='modify' visible='true'>
+    <nd ref='-1688847' />
+    <nd ref='-1688462' />
+    <nd ref='-1688776' />
+    <nd ref='-1689024' />
+    <nd ref='-1688847' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348656' action='modify' visible='true'>
+    <nd ref='-1688561' />
+    <nd ref='-1688801' />
+    <nd ref='-1688464' />
+    <nd ref='-1688739' />
+    <nd ref='-1688561' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348657' action='modify' visible='true'>
+    <nd ref='-1688976' />
+    <nd ref='-1688605' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348658' action='modify' visible='true'>
+    <nd ref='-1688917' />
+    <nd ref='-1688547' />
+    <nd ref='-1688850' />
+    <nd ref='-1688519' />
+    <nd ref='-1688766' />
+    <nd ref='-1688814' />
+    <nd ref='-1689052' />
+    <nd ref='-1688751' />
+    <nd ref='-1688991' />
+    <nd ref='-1688682' />
+    <nd ref='-1688930' />
+    <nd ref='-1688620' />
+    <nd ref='-1688909' />
+    <nd ref='-1688569' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348659' action='modify' visible='true'>
+    <nd ref='-1688927' />
+    <nd ref='-1688625' />
+    <nd ref='-1688866' />
+    <nd ref='-1688558' />
+    <nd ref='-1688927' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348660' action='modify' visible='true'>
+    <nd ref='-1688707' />
+    <nd ref='-1688995' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348661' action='modify' visible='true'>
+    <nd ref='-1688497' />
+    <nd ref='-1688810' />
+    <nd ref='-1688472' />
+    <nd ref='-1688747' />
+    <nd ref='-1688497' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348662' action='modify' visible='true'>
+    <nd ref='-1688874' />
+    <nd ref='-1688527' />
+    <nd ref='-1688822' />
+    <nd ref='-1688468' />
+    <nd ref='-1688874' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348663' action='modify' visible='true'>
+    <nd ref='-1688514' />
+    <nd ref='-1688762' />
+    <nd ref='-1688809' />
+    <nd ref='-1689055' />
+    <nd ref='-1688514' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348664' action='modify' visible='true'>
+    <nd ref='-1688868' />
+    <nd ref='-1688580' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348665' action='modify' visible='true'>
+    <nd ref='-1688453' />
+    <nd ref='-1688505' />
+    <nd ref='-1688791' />
+    <nd ref='-1689062' />
+    <nd ref='-1688453' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348666' action='modify' visible='true'>
+    <nd ref='-1688628' />
+    <nd ref='-1688916' />
+    <nd ref='-1688546' />
+    <nd ref='-1688849' />
+    <nd ref='-1688628' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348667' action='modify' visible='true'>
+    <nd ref='-1689060' />
+    <nd ref='-1688728' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348668' action='modify' visible='true'>
+    <nd ref='-1688712' />
+    <nd ref='-1688984' />
+    <nd ref='-1688644' />
+    <nd ref='-1688931' />
+    <nd ref='-1688712' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348669' action='modify' visible='true'>
+    <nd ref='-1688473' />
+    <nd ref='-1688951' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348670' action='modify' visible='true'>
+    <nd ref='-1688919' />
+    <nd ref='-1688586' />
+    <nd ref='-1688858' />
+    <nd ref='-1688535' />
+    <nd ref='-1688919' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348671' action='modify' visible='true'>
+    <nd ref='-1688795' />
+    <nd ref='-1688457' />
+    <nd ref='-1688732' />
+    <nd ref='-1689019' />
+    <nd ref='-1688795' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348672' action='modify' visible='true'>
+    <nd ref='-1688476' />
+    <nd ref='-1688735' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348673' action='modify' visible='true'>
+    <nd ref='-1688725' />
+    <nd ref='-1689004' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348674' action='modify' visible='true'>
+    <nd ref='-1688714' />
+    <nd ref='-1689001' />
+    <nd ref='-1688653' />
+    <nd ref='-1688941' />
+    <nd ref='-1688714' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348675' action='modify' visible='true'>
+    <nd ref='-1688652' />
+    <nd ref='-1688940' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348676' action='modify' visible='true'>
+    <nd ref='-1688617' />
+    <nd ref='-1688890' />
+    <nd ref='-1688549' />
+    <nd ref='-1688836' />
+    <nd ref='-1688617' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348677' action='modify' visible='true'>
+    <nd ref='-1688954' />
+    <nd ref='-1688614' />
+    <nd ref='-1688902' />
+    <nd ref='-1688592' />
+    <nd ref='-1688954' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348678' action='modify' visible='true'>
+    <nd ref='-1688631' />
+    <nd ref='-1688904' />
+    <nd ref='-1688572' />
+    <nd ref='-1688852' />
+    <nd ref='-1688631' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348679' action='modify' visible='true'>
+    <nd ref='-1688640' />
+    <nd ref='-1688944' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348680' action='modify' visible='true'>
+    <nd ref='-1688825' />
+    <nd ref='-1688492' />
+    <nd ref='-1688525' />
+    <nd ref='-1688820' />
+    <nd ref='-1688825' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348681' action='modify' visible='true'>
+    <nd ref='-1688886' />
+    <nd ref='-1688523' />
+    <nd ref='-1688818' />
+    <nd ref='-1688480' />
+    <nd ref='-1688886' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348682' action='modify' visible='true'>
+    <nd ref='-1688811' />
+    <nd ref='-1688524' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348683' action='modify' visible='true'>
+    <nd ref='-1688573' />
+    <nd ref='-1688860' />
+    <nd ref='-1688533' />
+    <nd ref='-1688792' />
+    <nd ref='-1688573' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348684' action='modify' visible='true'>
+    <nd ref='-1688674' />
+    <nd ref='-1688953' />
+    <nd ref='-1688613' />
+    <nd ref='-1688901' />
+    <nd ref='-1688674' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348685' action='modify' visible='true'>
+    <nd ref='-1688937' />
+    <nd ref='-1688596' />
+    <nd ref='-1688884' />
+    <nd ref='-1688521' />
+    <nd ref='-1688937' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348686' action='modify' visible='true'>
+    <nd ref='-1688738' />
+    <nd ref='-1688455' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348687' action='modify' visible='true'>
+    <nd ref='-1688577' />
+    <nd ref='-1688880' />
+    <nd ref='-1688530' />
+    <nd ref='-1688796' />
+    <nd ref='-1688577' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348688' action='modify' visible='true'>
+    <nd ref='-1688805' />
+    <nd ref='-1688459' />
+    <nd ref='-1688742' />
+    <nd ref='-1689013' />
+    <nd ref='-1688805' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348689' action='modify' visible='true'>
+    <nd ref='-1688604' />
+    <nd ref='-1688865' />
+    <nd ref='-1688557' />
+    <nd ref='-1688823' />
+    <nd ref='-1688604' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348690' action='modify' visible='true'>
+    <nd ref='-1688848' />
+    <nd ref='-1688517' />
+    <nd ref='-1688787' />
+    <nd ref='-1689074' />
+    <nd ref='-1688848' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348691' action='modify' visible='true'>
+    <nd ref='-1688680' />
+    <nd ref='-1689020' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348692' action='modify' visible='true'>
+    <nd ref='-1689000' />
+    <nd ref='-1688659' />
+    <nd ref='-1688645' />
+    <nd ref='-1688932' />
+    <nd ref='-1689000' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348693' action='modify' visible='true'>
+    <nd ref='-1688477' />
+    <nd ref='-1688736' />
+    <nd ref='-1689039' />
+    <nd ref='-1688667' />
+    <nd ref='-1688477' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348694' action='modify' visible='true'>
+    <nd ref='-1688633' />
+    <nd ref='-1688973' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348695' action='modify' visible='true'>
+    <nd ref='-1688772' />
+    <nd ref='-1689050' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348696' action='modify' visible='true'>
+    <nd ref='-1688715' />
+    <nd ref='-1689002' />
+    <nd ref='-1688654' />
+    <nd ref='-1688942' />
+    <nd ref='-1688715' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348697' action='modify' visible='true'>
+    <nd ref='-1688994' />
+    <nd ref='-1688646' />
+    <nd ref='-1688933' />
+    <nd ref='-1688623' />
+    <nd ref='-1688994' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348698' action='modify' visible='true'>
+    <nd ref='-1689080' />
+    <nd ref='-1689077' />
+    <nd ref='-1688723' />
+    <nd ref='-1688784' />
+    <nd ref='-1689080' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348699' action='modify' visible='true'>
+    <nd ref='-1688750' />
+    <nd ref='-1688990' />
+    <nd ref='-1688689' />
+    <nd ref='-1688929' />
+    <nd ref='-1688750' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348700' action='modify' visible='true'>
+    <nd ref='-1688966' />
+    <nd ref='-1688634' />
+    <nd ref='-1688907' />
+    <nd ref='-1688567' />
+    <nd ref='-1688966' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348701' action='modify' visible='true'>
+    <nd ref='-1688724' />
+    <nd ref='-1689011' />
+    <nd ref='-1688639' />
+    <nd ref='-1688943' />
+    <nd ref='-1688724' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348702' action='modify' visible='true'>
+    <nd ref='-1688959' />
+    <nd ref='-1688656' />
+    <nd ref='-1688898' />
+    <nd ref='-1688588' />
+    <nd ref='-1688959' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348703' action='modify' visible='true'>
+    <nd ref='-1688618' />
+    <nd ref='-1688891' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348704' action='modify' visible='true'>
+    <nd ref='-1688887' />
+    <nd ref='-1688529' />
+    <nd ref='-1688819' />
+    <nd ref='-1688481' />
+    <nd ref='-1688887' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348705' action='modify' visible='true'>
+    <nd ref='-1688692' />
+    <nd ref='-1688978' />
+    <nd ref='-1688630' />
+    <nd ref='-1688918' />
+    <nd ref='-1688692' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348706' action='modify' visible='true'>
+    <nd ref='-1688982' />
+    <nd ref='-1688710' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348707' action='modify' visible='true'>
+    <nd ref='-1688974' />
+    <nd ref='-1689068' />
+    <nd ref='-1688704' />
+    <nd ref='-1689007' />
+    <nd ref='-1688974' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348708' action='modify' visible='true'>
+    <nd ref='-1688551' />
+    <nd ref='-1688838' />
+    <nd ref='-1688489' />
+    <nd ref='-1688770' />
+    <nd ref='-1688551' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348709' action='modify' visible='true'>
+    <nd ref='-1689083' />
+    <nd ref='-1688624' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348710' action='modify' visible='true'>
+    <nd ref='-1688604' />
+    <nd ref='-1688892' />
+    <nd ref='-1688545' />
+    <nd ref='-1688831' />
+    <nd ref='-1688490' />
+    <nd ref='-1688604' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348711' action='modify' visible='true'>
+    <nd ref='-1688473' />
+    <nd ref='-1689020' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348712' action='modify' visible='true'>
+    <nd ref='-1688830' />
+    <nd ref='-1688515' />
+    <nd ref='-1688763' />
+    <nd ref='-1689048' />
+    <nd ref='-1688830' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348713' action='modify' visible='true'>
+    <nd ref='-1688466' />
+    <nd ref='-1688780' />
+    <nd ref='-1689028' />
+    <nd ref='-1688719' />
+    <nd ref='-1688466' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348714' action='modify' visible='true'>
+    <nd ref='-1688507' />
+    <nd ref='-1688854' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348715' action='modify' visible='true'>
+    <nd ref='-1688906' />
+    <nd ref='-1688566' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348716' action='modify' visible='true'>
+    <nd ref='-1688550' />
+    <nd ref='-1688741' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348717' action='modify' visible='true'>
+    <nd ref='-1688475' />
+    <nd ref='-1688758' />
+    <nd ref='-1689030' />
+    <nd ref='-1688696' />
+    <nd ref='-1688475' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348718' action='modify' visible='true'>
+    <nd ref='-1688512' />
+    <nd ref='-1688767' />
+    <nd ref='-1689069' />
+    <nd ref='-1688697' />
+    <nd ref='-1688512' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348719' action='modify' visible='true'>
+    <nd ref='-1688701' />
+    <nd ref='-1689012' />
+    <nd ref='-1688996' />
+    <nd ref='-1688687' />
+    <nd ref='-1688701' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348720' action='modify' visible='true'>
+    <nd ref='-1688845' />
+    <nd ref='-1688460' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348721' action='modify' visible='true'>
+    <nd ref='-1688745' />
+    <nd ref='-1689033' />
+    <nd ref='-1688684' />
+    <nd ref='-1688971' />
+    <nd ref='-1688745' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348722' action='modify' visible='true'>
+    <nd ref='-1688813' />
+    <nd ref='-1689059' />
+    <nd ref='-1688483' />
+    <nd ref='-1688734' />
+    <nd ref='-1688737' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348723' action='modify' visible='true'>
+    <nd ref='-1688610' />
+    <nd ref='-1688913' />
+    <nd ref='-1688543' />
+    <nd ref='-1688829' />
+    <nd ref='-1688610' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348724' action='modify' visible='true'>
+    <nd ref='-1688815' />
+    <nd ref='-1689053' />
+    <nd ref='-1688752' />
+    <nd ref='-1688992' />
+    <nd ref='-1688815' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348725' action='modify' visible='true'>
+    <nd ref='-1688893' />
+    <nd ref='-1689050' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348726' action='modify' visible='true'>
+    <nd ref='-1688539' />
+    <nd ref='-1688794' />
+    <nd ref='-1688456' />
+    <nd ref='-1688731' />
+    <nd ref='-1688539' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348727' action='modify' visible='true'>
+    <nd ref='-1688670' />
+    <nd ref='-1688979' />
+    <nd ref='-1688609' />
+    <nd ref='-1688912' />
+    <nd ref='-1688670' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348728' action='modify' visible='true'>
+    <nd ref='-1689020' />
+    <nd ref='-1688769' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348729' action='modify' visible='true'>
+    <nd ref='-1688501' />
+    <nd ref='-1688498' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348730' action='modify' visible='true'>
+    <nd ref='-1688518' />
+    <nd ref='-1688765' />
+    <nd ref='-1689075' />
+    <nd ref='-1688703' />
+    <nd ref='-1688518' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348731' action='modify' visible='true'>
+    <nd ref='-1689081' />
+    <nd ref='-1688730' />
+    <nd ref='-1688853' />
+    <nd ref='-1688506' />
+    <nd ref='-1689081' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348732' action='modify' visible='true'>
+    <nd ref='-1688587' />
+    <nd ref='-1688859' />
+    <nd ref='-1688536' />
+    <nd ref='-1688807' />
+    <nd ref='-1688587' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348733' action='modify' visible='true'>
+    <nd ref='-1688877' />
+    <nd ref='-1688496' />
+    <nd ref='-1688538' />
+    <nd ref='-1688793' />
+    <nd ref='-1688877' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348734' action='modify' visible='true'>
+    <nd ref='-1688826' />
+    <nd ref='-1688493' />
+    <nd ref='-1688774' />
+    <nd ref='-1689044' />
+    <nd ref='-1688826' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348735' action='modify' visible='true'>
+    <nd ref='-1689082' />
+    <nd ref='-1688748' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348736' action='modify' visible='true'>
+    <nd ref='-1688552' />
+    <nd ref='-1688839' />
+    <nd ref='-1688499' />
+    <nd ref='-1688771' />
+    <nd ref='-1688552' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348737' action='modify' visible='true'>
+    <nd ref='-1688863' />
+    <nd ref='-1688540' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348738' action='modify' visible='true'>
+    <nd ref='-1689038' />
+    <nd ref='-1688666' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348739' action='modify' visible='true'>
+    <nd ref='-1688889' />
+    <nd ref='-1688936' />
+    <nd ref='-1688603' />
+    <nd ref='-1688875' />
+    <nd ref='-1688889' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348740' action='modify' visible='true'>
+    <nd ref='-1688846' />
+    <nd ref='-1688461' />
+    <nd ref='-1688783' />
+    <nd ref='-1689023' />
+    <nd ref='-1688846' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348741' action='modify' visible='true'>
+    <nd ref='-1688713' />
+    <nd ref='-1688962' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348742' action='modify' visible='true'>
+    <nd ref='-1688844' />
+    <nd ref='-1688467' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348743' action='modify' visible='true'>
+    <nd ref='-1688861' />
+    <nd ref='-1688908' />
+    <nd ref='-1688560' />
+    <nd ref='-1688840' />
+    <nd ref='-1688861' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348744' action='modify' visible='true'>
+    <nd ref='-1688746' />
+    <nd ref='-1689034' />
+    <nd ref='-1688685' />
+    <nd ref='-1688972' />
+    <nd ref='-1688746' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348745' action='modify' visible='true'>
+    <nd ref='-1688570' />
+    <nd ref='-1688842' />
+    <nd ref='-1688509' />
+    <nd ref='-1688779' />
+    <nd ref='-1688570' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348746' action='modify' visible='true'>
+    <nd ref='-1689070' />
+    <nd ref='-1688698' />
+    <nd ref='-1688986' />
+    <nd ref='-1688638' />
+    <nd ref='-1689070' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='stairs' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348747' action='modify' visible='true'>
+    <nd ref='-1689047' />
+    <nd ref='-1688686' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348748' action='modify' visible='true'>
+    <nd ref='-1689084' />
+    <nd ref='-1689085' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348749' action='modify' visible='true'>
+    <nd ref='-1689087' />
+    <nd ref='-1689088' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348750' action='modify' visible='true'>
+    <nd ref='-1688741' />
+    <nd ref='-1689088' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348751' action='modify' visible='true'>
+    <nd ref='-1689086' />
+    <nd ref='-1689083' />
+    <tag k='level' v='3' />
+    <tag k='location' v='path' />
+  </way>
+  <way id='-348752' action='modify' visible='true'>
+    <nd ref='-1689089' />
+    <nd ref='-1689090' />
+    <nd ref='-1689091' />
+    <nd ref='-1689092' />
+    <tag k='building' v='object' />
+    <tag k='level' v='3' />
+  </way>
+  <way id='-348753' action='modify' visible='true'>
+    <nd ref='-1689094' />
+    <nd ref='-1689095' />
+    <nd ref='-1689096' />
+    <nd ref='-1689097' />
+    <nd ref='-1689098' />
+    <nd ref='-1689099' />
+    <nd ref='-1689100' />
+    <nd ref='-1689101' />
+    <nd ref='-1689094' />
+    <tag k='building' v='object' />
+    <tag k='indoors' v='classroom' />
+    <tag k='level' v='3' />
+  </way>
+</osm>
