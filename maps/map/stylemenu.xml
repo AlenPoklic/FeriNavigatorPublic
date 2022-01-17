@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rendertheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" map-background="#F8F8F8"
+    map-background-outside="#DDDDDD" version="5" xmlns="http://mapsforge.org/renderTheme"
+    xsi:schemaLocation="http://mapsforge.org/renderTheme https://raw.githubusercontent.com/mapsforge/mapsforge/master/resources/renderTheme.xsd">
+
+    <!-- STYLEMENU DEF -->
+    <stylemenu id="levels" defaultvalue="1" >
+
+        <layer enabled="true" id="1" visible="true">
+            <cat id="level1"/>  <!-- online layer 1 (user mode) -->
+        </layer>
+
+        <layer enabled="true" id="7" visible="true">
+            <cat id="level1_1"/> <!-- offline layer 1 (admin mode) -->
+        </layer>
+
+        <layer enabled="true" id="2" visible="true">
+            <cat id="level2"/> <!-- online layer 2 (user mode) -->
+        </layer>
+
+        <layer enabled="true" id="8" visible="true">
+            <cat id="level2_1"/> <!-- offline layer 2 (admin mode) -->
+        </layer>
+
+        <layer enabled="true" id="3" visible="true">
+            <cat id="level3"/>
+        </layer>
+
+        <layer enabled="true" id="4" visible="true">
+            <cat id="level4"/>
+        </layer>
+
+        <layer enabled="true" id="5" visible="true">
+            <cat id="level5"/>
+        </layer>
+
+        <layer enabled="true" id="6" visible="true">
+            <cat id="level6"/>
+        </layer>
+
+        <!-- offline layers -->
+
+
+        <layer enabled="true" id="9" visible="true">
+            <cat id="level3_1"/>
+        </layer>
+
+        <layer enabled="true" id="10" visible="true">
+            <cat id="level4_1"/>
+        </layer>
+
+        <layer enabled="true" id="11" visible="true">
+            <cat id="level5_1"/>
+        </layer>
+
+        <layer enabled="true" id="12" visible="true">
+            <cat id="level6_1"/>
+        </layer>
+    </stylemenu>
+
+    <!-- online -->
+    <rule cat="level1" e="any" k="level" v="1">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- offline -->
+    <rule cat="level1_1" e="any" k="level" v="1">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="location" v="*" zoom-min="17">
+            <rule e="node" k="*" v="point">
+                <circle fill="#FF0000" radius="0.06" scale-radius="true" />
+            </rule>
+            <rule e="way" k="*" v="path">
+                <line stroke="#000000" stroke-width="0.02" />
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- online -->
+    <rule cat="level2" e="any" k="level" v="2">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- offline -->
+    <rule cat="level2_1" e="any" k="level" v="2">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="location" v="*" zoom-min="17">
+            <rule e="node" k="*" v="point">
+                <circle fill="#FF0000" radius="0.06" scale-radius="true" />
+            </rule>
+            <rule e="way" k="*" v="path">
+                <line stroke="#000000" stroke-width="0.02" />
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- online -->
+    <rule cat="level3" e="any" k="level" v="3">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- offline -->
+    <rule cat="level3_1" e="any" k="level" v="3">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="location" v="*" zoom-min="17">
+            <rule e="node" k="*" v="point">
+                <circle fill="#FF0000" radius="0.06" scale-radius="true" />
+            </rule>
+            <rule e="way" k="*" v="path">
+                <line stroke="#000000" stroke-width="0.02" />
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- online -->
+    <rule cat="level4" e="any" k="level" v="4">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- offline -->
+    <rule cat="level4_1" e="any" k="level" v="4">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="location" v="*" zoom-min="17">
+            <rule e="node" k="*" v="point">
+                <circle fill="#FF0000" radius="0.06" scale-radius="true" />
+            </rule>
+            <rule e="way" k="*" v="path">
+                <line stroke="#000000" stroke-width="0.02" />
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- online -->
+    <rule cat="level5" e="any" k="level" v="5">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- offline -->
+    <rule cat="level5_1" e="any" k="level" v="5">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="location" v="*" zoom-min="17">
+            <rule e="node" k="*" v="point">
+                <circle fill="#FF0000" radius="0.06" scale-radius="true" />
+            </rule>
+            <rule e="way" k="*" v="path">
+                <line stroke="#000000" stroke-width="0.02" />
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- online -->
+    <rule cat="level6" e="any" k="level" v="6">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+    </rule>
+
+    <!-- offline -->
+    <rule cat="level6_1" e="any" k="level" v="6">
+        <rule e="way" k="indoors" v="outline">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.1"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="classroom">
+            <area fill="#7890A8" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="stairs">
+            <area fill="#F0A818" stroke="#000000" stroke-width="0.02"  />
+        </rule>
+
+        <rule e="way" k="indoors" v="elevator">
+            <area fill="#db1215" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="indoors|building" v="unaccessable">
+            <area fill="#958e9c9a" stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="way" k="building" v="object">
+            <area stroke="#000000" stroke-width="0.05"  />
+        </rule>
+
+        <rule e="node" k="icon" v="*">
+            <rule e="any" k="*" v="exit">
+                <symbol symbol-percent="150" id="exit" src="assets:symbols/exit.svg"/>
+            </rule>
+            <rule e="any" k="*" v="elevator">
+                <symbol symbol-percent="85" id="elevator" src="assets:symbols/elevator.svg"/>
+            </rule>
+            <rule e="any" k="*" v="WC_M">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_M" src="assets:symbols/man.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_W">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_W" src="assets:symbols/woman.svg"/>
+                </rule>
+            </rule>
+            <rule e="any" k="*" v="WC_D">
+                <rule e="any" k="*" v="*" zoom-max="20" zoom-min="20">
+                    <symbol symbol-percent="70" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+                <rule e="any" k="*" v="*" zoom-min="21">
+                    <symbol symbol-percent="110" id="WC_D" src="assets:symbols/disabled.svg"/>
+                </rule>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="PRITLIČJE|MEDETAŽA|1. NADSTROPJE|2. NADSTROPJE|3. NADSTROPJE|4. NADSTROPJE">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="25" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="TAJNIŠTVO|FAKULTETE|DEKANA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="100" k="caption" font-style="bold" font-size="5" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="10" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="*" v="G2|P01|P02|P03|P04|P05|P06|G2 P1|ALFA|G2 P2|BETA|REFERAT|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57|58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73|74|75|76|77|78|79|OHM|AMPER|PASCAL|NEWTON|G2 N1|G2 M|G2 N2|GAMA|DELTA|WEBER|TESLA|HERTZ|FARAD|G2 P3|G2 P4|HENRY|BECQUELL|LUMEN|SENATNA|SOBA|DEKAN|G2 N3|G2 N4|KAVARNA|GALERIJA">
+            <rule e="any" k="*" v="*" zoom-min="20" zoom-max="20">
+                <caption priority="30" k="caption" font-style="bold" font-size="9" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+            <rule e="any" k="*" v="*" zoom-min="21">
+                <caption priority="30" k="caption" font-style="bold" font-size="15" fill="#333380" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+
+        <rule e="any" k="location" v="*" zoom-min="17">
+            <rule e="node" k="*" v="point">
+                <circle fill="#FF0000" radius="0.06" scale-radius="true" />
+            </rule>
+            <rule e="way" k="*" v="path">
+                <line stroke="#000000" stroke-width="0.02" />
+            </rule>
+        </rule>
+    </rule>
+
+</rendertheme>
